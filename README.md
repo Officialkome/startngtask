@@ -1,8 +1,7 @@
 ![HNG Logo](https://res.cloudinary.com/kome/image/upload/v1566625043/startng_mediaFiles/hng_startng_hwooyz.png)
-
-##Start NG
-###Pre-HNGinternship Task 2
-#####Task - *A basic html Page of My Resume*
+## Start NG
+### Pre-HNGinternship Task 2
+##### Task - ***A basic html Page of My Resume***
 ##### Created by - *Oghenekome Akaka*
 #####  Programming level - *Beginner*
 #####   Slack Username - [***@Kome***](https://app.slack.com/client/TLWSEBK7C/CMGR466L8/user_profile/UMD1W2MRA)
