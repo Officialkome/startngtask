@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+}
+
+#whole-body {
+  background: url(/images/background-image.jpeg);
+  background-attachment: fixed;
+  background-position: 100vh;
+}
+h1 {
+  align-content: center;
+}
