@@ -4,8 +4,8 @@
   display: flex;
 }
 
-#whole-body {
-  background: url(/images/background-image.jpeg);
+body {
+  background: url("/images/background-image.jpeg");
   background-attachment: fixed;
   background-position: 100vh;
 }
