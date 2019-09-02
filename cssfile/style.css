@@ -3,27 +3,104 @@
   padding: 0%;
   box-sizing: border-box;
 }
-body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  /* background-color: #011627; */
-}
-div {
-  background: #011627;
-}
-.logo {
-  color: #2ec4b6;
-}
-.nav {
-  color: #3fa80a;
+/* body {
+  background-color: #011627;
+} */
+
+.nav-home,
+.nav-resume,
+.nav-contact,
+a {
   padding: 5px;
   text-align: right;
-  background-color: #011627;
-}
-a {
   text-decoration: none;
   color: #e71d36;
+  background-color: #011627;
+}
+.background-index {
+  background: url("/images/backgr2.jpeg");
+  min-height: 100vh;
+  background-position: center;
+  background-attachment: fixed;
 }
 
-.background-index {
-  background: url("/images/background-image.jpeg");
+p {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  padding: -500px -500px 500px -500px;
+  word-spacing: 1px;
+  letter-spacing: 0.5px;
+  color: #e71d36;
+  word-wrap: break-word;
+}
+
+#padded-p {
+  padding: 400px 400px 0px 400px;
+}
+h1 {
+  color: #2ec4b6;
+  font-family: "Dancing Script", cursive;
+  background-color: #011627;
+}
+img {
+  text-align: center;
+  padding: 200px 500px 50px 500px;
+  background-attachment: fixed;
+}
+.resume-image {
+  padding: none;
+  text-align: left;
+}
+ul li {
+  text-align: center;
+  padding: 20px;
+}
+li {
+  font-stretch: expanded;
+  font-size: 25px;
+}
+.background-link {
+  background-color: #011627;
+  color: #2ec4b6;
+}
+
+h3,
+h2 {
+  color: navy;
+  background-color: #2ec4b6;
+}
+.resume-ul,
+.resume-list {
+  padding: 0px;
+  list-style-position: inside;
+}
+.resume-list {
+  font-size: 16px;
+  text-align: left;
+  padding: 2px;
+  box-align: center;
+}
+
+div {
+  color: gray;
+}
+
+#resume-body {
+  margin: 5px;
+  padding: 70px;
+  box-sizing: border-box;
+}
+
+#resume-paragraph {
+  padding-left: 1000px;
+}
+
+#resume-homebtn {
+  text-align: center;
+  padding-left: 0px;
+  background-color: #2ec4b6;
+}
+#resume-image {
+  padding: 0px;
 }
