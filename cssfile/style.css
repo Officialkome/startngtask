@@ -12,8 +12,6 @@ div {
 }
 .logo {
   color: #2ec4b6;
-  font-family: cursive;
-  font-size: 30px;
 }
 .nav {
   color: #3fa80a;
@@ -25,6 +23,7 @@ a {
   text-decoration: none;
   color: #e71d36;
 }
+
 .background-index {
   background: url("/images/background-image.jpeg");
 }
