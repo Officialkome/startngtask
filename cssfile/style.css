@@ -18,7 +18,7 @@ a {
   background-color: #011627;
 }
 .background-index {
-  background: url("/images/backgr2.jpeg");
+  background: url("./images/backgr2.jpeg");
   min-height: 100vh;
   background-position: center;
   background-attachment: fixed;
