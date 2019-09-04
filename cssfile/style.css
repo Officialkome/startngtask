@@ -18,7 +18,7 @@ a {
   background-color: #011627;
 }
 .background-index {
-  background: url("/images/backgr2.jpeg");
+  background: url("https://res.cloudinary.com/kome/image/upload/v1567629747/backgr2_ti4oye.jpg");
   min-height: 100vh;
   background-position: center;
   background-attachment: fixed;
